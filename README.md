@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaraO2
 - 👀 I’m interested in learning everything 
 - 🌱 I’m currently learning everything 
-- 📫 How to reach me : [saraqarab.com](https://www.saraqarab.com/)
+- 📫 How to reach me : sarahqr20@gmail.com
 
 <!---
 SaraO2/SaraO2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

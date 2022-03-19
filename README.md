@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @saraqarab
-- 👀 I’m interested in learning everything 
-- 🌱 I’m currently learning everything 
 - 📫 How to reach me : sarahqr20@gmail.com
 
 <!---
